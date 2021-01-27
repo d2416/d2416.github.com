@@ -1,0 +1,18 @@
+.github {
+  background: #111111;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.profile {
+  border-radius: 50%;
+}
